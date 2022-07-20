@@ -1,5 +1,27 @@
 ### Hi there 👋
 
+### About me in code: 
+ 
+```javascript
+const flavia = {
+  pronouns: "she" | "her",
+  code: [JavaScript, HTML, CSS],
+  tools: [React, Node]
+}
+```
+### You can find me:
+-[Linkedin](https://www.linkedin.com/in/flavia-daniela-reisenauer) <br>
+-[Gmail](flaviareisenauer@gmail.com)
+
+**Languages and tools:**  
+ <img height="50" src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.webp">
+ <img height="50" src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.webp">
+ <img height="50" src="https://i.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.webp">
+ <img height="50" src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.webp">
+ <img height="50" src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp">
+ <img height="50" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp">
+ <img height="50" src="https://i.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.webp">
+
 <!--
 **flaviadanielareisenauer/flaviadanielareisenauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
