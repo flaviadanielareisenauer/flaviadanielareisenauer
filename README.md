@@ -8,12 +8,12 @@ const flavia = {
   technologies: {
     frontEnd: {
       javaScript: ["react"],
-      css: ["bootstrap"],
+      css: ["bootstrap"]
     },
     backEnd: {     
       javaScript: ["nodejs", "express"]      
     },
-    databases: ["MySql"],
+    databases: ["MySql"]
   },
 };
 ```
