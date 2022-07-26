@@ -21,11 +21,11 @@ const flavia = {
  <img height="50" src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp">
  <img height="50" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp">
  <img height="50" src="https://i.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.webp">
+ <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
 
 <a href="https://github.com/flaviadanielareisenauer">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviadanielareisenauer&theme=radical&hide=glsl,python" />
 </a>
-
 
 <!--
 **flaviadanielareisenauer/flaviadanielareisenauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
