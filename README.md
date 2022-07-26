@@ -5,9 +5,17 @@
 ```javascript
 const flavia = {
   pronouns: "she" | "her",
-  code: [JavaScript, HTML, CSS],
-  tools: [React, Node]
-}
+  technologies: {
+    frontEnd: {
+      javaScript: ["react"],
+      css: ["bootstrap"],
+    },
+    backEnd: {     
+      javaScript: ["nodejs", "express"]      
+    },
+    databases: ["MySql"],
+  },
+};
 ```
 ### You can find me:
 <a href = "mailto:flaviareisenauer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
