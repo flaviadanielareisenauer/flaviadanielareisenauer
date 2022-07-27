@@ -13,7 +13,8 @@ const flavia = {
     backEnd: {     
       javaScript: ["nodejs", "express"]      
     },
-    databases: ["MySql"]
+    databases: ["MySql"], 
+    wouldLikeToLearn: ["TypeScript", "Angular", "Vue.js"]  
   },
 };
 ```
