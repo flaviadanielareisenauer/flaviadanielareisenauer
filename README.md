@@ -1,7 +1,7 @@
 ### Hi there 👋
+Me considero autodidacta, con intención de desarrollar una filosofía de aprendizaje para toda mi vida. Tengo una marcada orientación al Front-End porque me parece que lo visual tiene una influencia muy grande sobre la experiencia del usuario. Tengo una personalidad que se inclina a cuidar los detalles y estar constantemente probando opciones nuevas.
 
-### About me in code: 
- 
+### About me in code:  
 ```javascript
 const flavia = {
   pronouns: "she" | "her",
@@ -23,30 +23,16 @@ const flavia = {
 <a href="https://www.linkedin.com/in/flavia-daniela-reisenauer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 **Languages and tools:**  
- <img height="50" src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.webp">
- <img height="50" src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.webp">
- <img height="50" src="https://i.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.webp">
- <img height="50" src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.webp">
- <img height="50" src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp">
- <img height="50" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp">
- <img height="50" src="https://i.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.webp">
- <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
-
-<a href="https://github.com/flaviadanielareisenauer">
+ <img height="60" src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.webp">
+ <img height="60" src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.webp">
+ <img height="60" src="https://i.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.webp">
+ <img height="60" src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.webp">
+ <img height="60" src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp">
+ <img height="60" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp">
+ <img height="60" src="https://i.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.webp">
+ <img width="60" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp">
+ 
+ <a href="https://github.com/flaviadanielareisenauer">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviadanielareisenauer&theme=radical&hide=glsl,python" />
 </a>
-
-<!--
-**flaviadanielareisenauer/flaviadanielareisenauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
