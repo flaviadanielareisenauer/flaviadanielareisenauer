@@ -27,6 +27,7 @@ const flavia = {
  <img height="60" src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.webp">
  <img height="60" src="https://i.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.webp">
  <img height="60" src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.webp">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/>
  <img height="60" src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp">
  <img height="60" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp">
  <img height="60" src="https://i.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.webp">
