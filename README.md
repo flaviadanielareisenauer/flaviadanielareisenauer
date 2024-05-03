@@ -10,7 +10,8 @@ const flavia = {
       javaScript: ["react"],
       css: ["bootstrap"]
     },
-    backEnd: {     
+    backEnd: {
+      java: ["Java"],     
       javaScript: ["nodejs", "express"]      
     },
     databases: ["MySql"], 
